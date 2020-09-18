@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.codegemz.sharing_data_between_screens">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
