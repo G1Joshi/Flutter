@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.codegemz.drawer_and_bottom_bar">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>
